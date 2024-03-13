@@ -37,6 +37,8 @@ This app was developed using a MQTT protocol
 
 ## Demo
 
+https://github.com/ShirelBi/IOT_SMART_HOME/assets/53013989/5860991a-8ad9-4266-ba8d-7ba8e87a91ba
+
 ## How to run the app
 ### Pre-requisites
 ⭐ Make sure you have Python 3 (at least 3.8.2) installed on your machine
