@@ -1,6 +1,9 @@
 # SmartAir
 
 Use your conditioner wisely 
+![2](https://github.com/ShirelBi/IOT_SMART_HOME/assets/53013989/1ddc2d09-68f1-4226-aff4-789526e797c1)
+
+![1](https://github.com/ShirelBi/IOT_SMART_HOME/assets/53013989/6987f9d6-c260-4777-a7b2-d8e66146ac1d)
 
 ## Features
 
@@ -27,6 +30,10 @@ Using the app, you will be able to manage your home conditioner by:
 ## Architecture
 
 This app was developed using a MQTT protocol
+
+![mqtt-protocol3](https://github.com/ShirelBi/IOT_SMART_HOME/assets/53013989/d8377053-b4e2-4694-8800-1a9c8003d500)
+
+![Screenshot 2024-03-13 132454](https://github.com/ShirelBi/IOT_SMART_HOME/assets/53013989/ef6b8226-b18f-4a08-b64c-ae09803e2532)
 
 ## Demo
 
